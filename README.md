@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! I'm passionate about coding and Artificial Intelligence, with a focus on Generative AI, Large Language Models (LLMs), and AI Agents.
 
-## 🛠️ Skills & Tech Stack
+## Skills & Tech Stack
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
