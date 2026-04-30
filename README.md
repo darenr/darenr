@@ -18,11 +18,12 @@ Welcome to my GitHub profile! I'm passionate about coding and Artificial Intelli
 
 - AI Agents for Financial/Investment Services
 - Exploring the latest advancements in LLMs and AI Agents.
-- Claude CoWork, Codex
-
-## Other
+- Claude CoWork, Codex, plugins, skills, MCP
 
 Find me on [linkedin](https://www.linkedin.com/in/daren-race)
+
+## Stars
+
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=darenr)
