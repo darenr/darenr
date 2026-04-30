@@ -24,6 +24,14 @@ Find me on [linkedin](https://www.linkedin.com/in/daren-race)
 
 ## Stars
 
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=darenr)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=darenr&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=darenr&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=darenr&show_icons=true" />
+</picture>
