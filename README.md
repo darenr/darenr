@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm passionate about coding and Artificial Intelli
 - Exploring the latest advancements in LLMs and AI Agents.
 - Claude CoWork, Codex
 
-## Stars
+## Other
+
+Find me on [linkedin](https://www.linkedin.com/in/daren-race)
+
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=darenr)
