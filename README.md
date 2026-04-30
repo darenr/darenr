@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm passionate about coding and Artificial Intelligence, with a focus on Generative AI, Large Language Models (LLMs), and AI Agents.
+Welcome to my GitHub profile! I'm passionate about coding and Artificial Intelligence, with a focus on Generative AI, Large Language Models (LLMs), and AI Agents. Focusing on secure, human-centered, agents that work alongside people and deliver business value to enhance the productivity of the people using them. 
 
 ## Skills & Tech Stack
 
